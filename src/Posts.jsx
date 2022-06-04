@@ -1,7 +1,5 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import './index.css';
-import ClassCounter from './components/ClassCounter';
-import Counter from './components/Counter';
 import MyButton from './components/UI/OI/MyButton';
 import PostList from './components/PostList';
 import MyInput from './components/UI/OI/Input/MyInput';

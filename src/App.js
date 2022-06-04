@@ -19,11 +19,11 @@ function App() {
   return (
    
    <BrowserRouter>
-       <Link to='/' style={{position:'absolute', right:'20%', color:'teal', top:'30px'}}>Посты</Link>  
+       <Link to='#' style={{position:'absolute', right:'20%', color:'teal', top:'30px'}}>Посты</Link>  
      <Routes>
        
-      <Route  path='/' element ={<Posts/>}/>
-      <Route  path='//:id' element ={<PostId/>}/>
+      <Route  path='#' element ={<Posts/>}/>
+      <Route  path='#/:id' element ={<PostId/>}/>
      </Routes>
      
         
