@@ -62,7 +62,7 @@ const createPost = (newPost) =>{
   return (
     <div className="index">
       <MyButton style={{marginTop: 30}} onClick={ () => setModal(true)}>
-        Создать пользователя
+        Создать поcт
       </MyButton>
     <MyModal visable={modal} setVisable = {setModal}>
       <PostForm create = {createPost}/>
