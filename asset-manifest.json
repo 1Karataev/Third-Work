@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/1Karataev.github.io/third-work/static/css/main.be8eb042.css",
-    "main.js": "/1Karataev.github.io/third-work/static/js/main.201e5e02.js",
-    "index.html": "/1Karataev.github.io/third-work/index.html",
-    "main.be8eb042.css.map": "/1Karataev.github.io/third-work/static/css/main.be8eb042.css.map",
-    "main.201e5e02.js.map": "/1Karataev.github.io/third-work/static/js/main.201e5e02.js.map"
+    "main.css": "/third-work/static/css/main.be8eb042.css",
+    "main.js": "/third-work/static/js/main.201e5e02.js",
+    "index.html": "/third-work/index.html",
+    "main.be8eb042.css.map": "/third-work/static/css/main.be8eb042.css.map",
+    "main.201e5e02.js.map": "/third-work/static/js/main.201e5e02.js.map"
   },
   "entrypoints": [
     "static/css/main.be8eb042.css",
