@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/1Karataev.github.ionpm/third-work/static/css/main.be8eb042.css",
+    "main.js": "/1Karataev.github.ionpm/third-work/static/js/main.201e5e02.js",
+    "index.html": "/1Karataev.github.ionpm/third-work/index.html",
+    "main.be8eb042.css.map": "/1Karataev.github.ionpm/third-work/static/css/main.be8eb042.css.map",
+    "main.201e5e02.js.map": "/1Karataev.github.ionpm/third-work/static/js/main.201e5e02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be8eb042.css",
+    "static/js/main.201e5e02.js"
+  ]
+}
